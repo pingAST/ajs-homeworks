@@ -1,0 +1,19 @@
+{
+  "name": "@pingast/platforms",
+  "version": "1.0.0",
+  "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingAST/ajs-homeworks.git"
+  },
+  "author": "Алексей",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pingAST/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/pingAST/ajs-homeworks#readme"
+}
